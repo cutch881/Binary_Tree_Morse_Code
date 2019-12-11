@@ -1,5 +1,11 @@
 
 import java.util.*;
+/**
+ * Write a description of class Encode here.
+ *
+ * @author (Mark Carvalho)
+ * @version (Nov 25 2017)
+ */
 
   public class ArrayIterator<T> implements Iterator<T>
     {
