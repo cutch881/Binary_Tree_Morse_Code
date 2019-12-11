@@ -3,8 +3,8 @@ import java.io.*;
 /**
  * Write a description of class Encode here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Mark Carvalho)
+ * @version (Nov 25 2017)
  */
 public class Encode
 {
